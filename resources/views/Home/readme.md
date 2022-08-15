@@ -1,0 +1,5 @@
+- Template admin 
+- option de connexion (fortify) authentification complète 
+- option mailtrap send email
+- Base de donnée général
+- Bouton ajout supprimer modifier (pannier)
